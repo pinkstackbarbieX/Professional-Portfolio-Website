@@ -29,4 +29,3 @@ This portfolio was built as part of a personal branding project, with the goal o
 ## Contact
 
 - Email: miss.siya.kobese@gmail.com
-- GitHub: [github.com/missbarbiemthecoder-prettyVamp](https://github.com/missbarbiemthecoder-prettyVamp)
